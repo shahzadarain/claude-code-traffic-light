@@ -1,0 +1,8 @@
+{
+  "hooks": {
+    "SessionStart":     [{ "hooks": [{ "type": "command", "command": "$HOME/.claude/light.sh green"  }] }],
+    "UserPromptSubmit": [{ "hooks": [{ "type": "command", "command": "$HOME/.claude/light.sh red"    }] }],
+    "Notification":     [{ "hooks": [{ "type": "command", "command": "$HOME/.claude/light.sh yellow" }] }],
+    "Stop":             [{ "hooks": [{ "type": "command", "command": "$HOME/.claude/light.sh green"  }] }]
+  }
+}

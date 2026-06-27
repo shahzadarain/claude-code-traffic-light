@@ -1,0 +1,21 @@
+# Secrets — never commit real credentials
+secrets.*
+*.local
+.env
+.env.*
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+*.hex
