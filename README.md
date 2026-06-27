@@ -18,8 +18,9 @@ No more babysitting the terminal. Glance at the light, get on with your day.
 
 ![demo](images/demo.jpg)
 
-> 📸 **Drop a photo or GIF of your build into the `images/` folder** and name it
-> `demo.jpg` — it'll show up right here.
+> 📸 The image above is a **placeholder**. Drop a photo or GIF of your real
+> build into the `images/` folder, name it `demo.jpg` (overwriting the
+> placeholder), and it'll show up right here.
 
 ## Two ways to build it
 
